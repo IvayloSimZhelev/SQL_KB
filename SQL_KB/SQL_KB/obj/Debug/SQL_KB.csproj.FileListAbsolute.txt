@@ -11,3 +11,16 @@ D:\temp\SP_KB\SQL_KB\SQL_KB\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
 D:\temp\SP_KB\SQL_KB\SQL_KB\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
 D:\temp\SP_KB\SQL_KB\SQL_KB\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
 D:\temp\SP_KB\SQL_KB\SQL_KB\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\bin\Debug\SQL_KB.exe.config
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\obj\Debug\SQL_KB.exe
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\obj\Debug\SQL_KB.pdb
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\bin\Debug\SQL_KB.exe
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\bin\Debug\SQL_KB.pdb
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\bin\Debug\Microsoft.SqlServer.Management.SqlParser.dll
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\obj\Debug\SQL_KB.csprojResolveAssemblyReference.cache
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\obj\Debug\SQL_KB.frmMain.resources
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\obj\Debug\SQL_KB.Properties.Resources.resources
+D:\temp\SQLAnalyzer\SQL_KB\SQL_KB\SQL_KB\obj\Debug\SQL_KB.csproj.GenerateResource.Cache

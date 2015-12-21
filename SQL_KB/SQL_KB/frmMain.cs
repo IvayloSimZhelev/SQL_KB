@@ -185,7 +185,7 @@ namespace SQL_KB
 
             string Sql = @"select*
                            from cust_service_order cso (nolock)
-                           where NOT EXISTS(SELECT 1 FROM dbo.camp_ro_data z(nolock) WHERE z.ro_id = cso.service_ord_id)";
+                           where NOT EXISTS(SELECT 1 FROM dbo.camp_ro_data z(nolock) WHERE z.ro_id = cso.service_ord_id1)";
 
 
 
